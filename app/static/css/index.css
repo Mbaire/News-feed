@@ -1,0 +1,25 @@
+.navbar{
+    background-color: black;
+}
+ body{
+    background-color:whitesmoke;
+} 
+.navbar-brand{
+    color:black;
+    font-size: 2rem;
+}
+.nav{
+    font-size: 2rem;
+}
+a{text-align: center;}
+
+.second{
+    align-items: center;
+    height: 200px;
+    width: 400px;
+}
+.third{
+    align-items: center;
+    height: 200px;
+    width: 400px;
+}
