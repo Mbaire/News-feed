@@ -4,7 +4,7 @@ Mary Natalie
 ## Description
 This is a web application that enables user to get and access news from different sources and articles depending on the categories. It uses the News api to access the news.
 ## User Stories
-* As a user, I would also want to select a news source and see all news articles from the selected news source in the application.
+* As a user, I would  want to select a news source and see all news articles from the selected news source in the application.
 * As a user, I would want to see the image, description and the time a news article was created.
 * As a user, I would want to click on an article and read the full article on the source website.
 
