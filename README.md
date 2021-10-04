@@ -1,6 +1,6 @@
 # News Feed
 ## Author
-Mary Natalie
+Mary Miringu
 ## Description
 This is a web application that enables user to get and access news from different sources and articles depending on the categories. It uses the News api to access the news.
 ## User Stories
