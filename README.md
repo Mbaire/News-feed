@@ -29,7 +29,7 @@ This is a web application that enables user to get and access news from differen
 * HTML/CSS
 * Bootstrap
 ## Deployment
-This is the live link to the project: <a href=" "> NEWS-FEED</a>
+This is the live link to the project: <a href="https://mmnote.herokuapp.com/"> NEWS-FEED</a>
 ## Known bugs
 No known bugs
 ### License
