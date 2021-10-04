@@ -3,7 +3,7 @@ import json
 from .models import Sources, Articles
 
 # Get  API KEY
-api_key ='4076f971e66749f19122871dd39d185d'
+api_key =''
 
 # Get news base url
 base_url = None
@@ -11,7 +11,7 @@ base_url = None
 
 def configure_request(app):
     global api_key, base_url, articles_base_url
-    api_key ='4076f971e66749f19122871dd39d185d'
+    api_key ='cd4f457d5b644e25bf5caedcfaf8a484'
     base_url = app.config['NEWS_API_BASE_URL']
     articles_base_url = app.config['NEWS_ARTICLES_BASE_URL']
 
@@ -20,7 +20,7 @@ def get_sources():
     Function to retrieve news sources list from the News api
     """
 
-    get_sources_url = "https://newsapi.org/v2/sources?apiKey=4076f971e66749f19122871dd39d185d"
+    get_sources_url = "https://newsapi.org/v2/sources?apiKey=cd4f457d5b644e25bf5caedcfaf8a484"
     
 
     with urllib.request.urlopen(get_sources_url) as url:
