@@ -9,9 +9,6 @@ class Config:
     NEWS_ARTICLES_BASE_URL = 'https://newsapi.org/v2/top-headlines?sources={}&apiKey={}'
     # SECRET_KEY = 'cd4f457d5b644e25bf5caedcfaf8a484'
 
-# @staticmethod
-# def init_app(app):
-#     pass
 
 
 
